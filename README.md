@@ -1,7 +1,7 @@
 # External.js
 By: Cal Eans <cal@calevans.com>
 
-(c) Evans Internet Construction Company, inc.
+(c) [Evans Internet Construction Company, Inc.](http://eicc.com)
 
 License: MIT
 
