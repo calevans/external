@@ -1,7 +1,9 @@
 /*
  * external.js
  * Cal Evans <cal@calevans.com>
- * Load exteraln files into a reveal.js presentation.
+ * (c) Eevans Internet Construction Company, Inc.
+ * Released under the MIT licesne
+ * Load external files into a reveal.js presentation.
  * 
  * This is a reveal.js plugin to load external html files. It replaces the 
  * content of any element with a data-external="file.ext" with the contents 
