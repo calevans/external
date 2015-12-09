@@ -1,16 +1,19 @@
 /*
  * external.js
  * Cal Evans <cal@calevans.com>
- * This started life as markdown.js.
+ * Load exteraln files into a reveal.js presentation.
+ * 
  * This is a reveal.js plugin to load external html files. It replaces the 
  * content of any element with a data-external="file.ext" with the contents 
  * of file.ext.
+ *
+ * This started life as markdown.js. Thank you to whomever wrote it.
  */
 
 (function(){
-	loadSlides();
+	loadExternal();
 
-	function loadSlides() {
+	function loadExternal() {
 
 		var sections = document.querySelectorAll( '[data-external]'),
 			section;
