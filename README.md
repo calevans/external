@@ -1,5 +1,5 @@
 # External.js
-By: Cal Eans <cal@calevans.com>
+By: Cal Evans <cal@calevans.com>
 
 (c) 2015 [Evans Internet Construction Company, Inc.](http://eicc.com)
 
