@@ -4,7 +4,7 @@ By: Cal Eans <cal@calevans.com>
 (c) [Evans Internet Construction Company, Inc.](http://eicc.com)
 
 License: MIT
-
+ 
 This is a plugin for Reveal.js. It allows you to specifiy external files to be loaded into a presentation. I developed it for [Zend](http://zend.com) Training. It allows a course, which may be hundreds of slides, to be broken into modules and managed individually. This allows for a course Subject Matter Expert to be working on one module, while the designer is working on another. 
 
 # Using external.js
