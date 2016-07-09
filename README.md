@@ -48,7 +48,13 @@ A sample of one of the files would look like this:
 		<p>Just to show that you can load multiple slides at a time, this is a second slide.</p>
 	</section>
 
-This makes each include file it's on sub-module that can be nagivated by the up and down cursor keys but modules can be switched by using left and right. 
+This makes each include file its own sub-module that can be navigated
+by the up and down cursor keys as well as the space bar,  but modules can be switched by using
+left and right.
+
+If you want to group without creating subsections, use
+
+	 <div data-external="module_01/index.html"> </div>
 
 You can of course do it differently. You can also still do sub sections fo slides within a seperate file. Anything that can normally be done in reveal.js, can be done inside of an externally loaded file.
 
