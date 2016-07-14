@@ -5,7 +5,7 @@
     "Matthew Setter <matthew@matthewsetter.com>"
   ],
   "description": "External file importer for reveal.js",
-  "version": "0.0.2",
+  "version": "1.0.1",
   "main": "external/external.js",
   "keywords": [
     "reveal.js",
