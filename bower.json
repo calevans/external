@@ -13,9 +13,6 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/settermjd/external",
-  "dependencies": {
-    "reveal.js": "~3.3.0"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/calevans/external.git"
