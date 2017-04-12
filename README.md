@@ -5,6 +5,7 @@ By: Cal Evans <cal@calevans.com>
 
 License: MIT
 
+## NOTE ##
 This project serves a very specific purpose and as such I don't usually take PRs or respond to requests for new features. You are welcome to fok it and make it your own. 
 
 You can also check out [this version](https://github.com/janschoepke/reveal_external) whcich does seem to be mantained and the author seems to be open to PRs and responding to issues.
